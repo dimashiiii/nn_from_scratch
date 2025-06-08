@@ -1,0 +1,4 @@
+nnfs 
+numpy 
+pandas 
+matplotlib
